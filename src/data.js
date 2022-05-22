@@ -39,3 +39,38 @@ export const categories = [
         title: "LIGHT JACKETS",
     },
 ];
+
+export const popularProducts = [
+    {
+        id: 1,
+        img: "https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
+    },
+    {
+        id: 2,
+        img: "https://cdn.shopify.com/s/files/1/0293/2152/7340/products/187696190286_1024x1024@2x.jpg?v=1615005638",
+    },
+    {
+        id: 3,
+        img: "https://www.prada.com/content/dam/pradanux_products/U/UCS/UCS319/1YOTF010O/UCS319_1YOT_F010O_S_182_SLF.png",
+    },
+    {
+        id: 4,
+        img: "https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
+    },
+    {
+        id: 5,
+        img: "https://images.ctfassets.net/5gvckmvm9289/3BlDoZxSSjqAvv1jBJP7TH/65f9a95484117730ace42abf64e89572/Noissue-x-Creatsy-Tote-Bag-Mockup-Bundle-_4_-2.png",
+    },
+    {
+        id: 6,
+        img: "https://d3o2e4jr3mxnm3.cloudfront.net/Rocket-Vintage-Chill-Cap_66374_1_lg.png",
+    },
+    {
+        id: 7,
+        img: "https://img.ltwebstatic.com/images2_pi/2018/07/03/1530599086841433968_thumbnail_600x799.webp",
+    },
+    {
+        id: 8,
+        img: "https://www.lilycustom.com/wp-content/uploads/2020/01/Wmn-Figure-Print-Tee-T-shirt.jpg",
+    },
+];
